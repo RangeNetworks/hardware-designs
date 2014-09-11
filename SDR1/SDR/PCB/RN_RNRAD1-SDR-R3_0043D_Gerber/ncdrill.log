@@ -1,0 +1,67 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : #Taaaaaa01888.tmp                             )
+(    Software Version : 16.3S035                                      )
+(    Date/Time        : Mon Aug 22 14:42:42 2011                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.000000	y:0.000000
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		NO
+ SUPPRESS-LEAD-ZEROES	YES
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		YES
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+ WARNING: Design precision is the same as that of the drill output file data.
+          Data rounding errors may still be possible.
+ WARNING: This design contains 3 slot holes that can NOT be drilled.
+          They can be processed by NC routing instead.
+
+
+
+ Drill files being output to directory 'X:/Range_Networks/SDR_Rev3_0043D/Gerber' ...
+
+
+
+     'RNRAD1-SDR-R3-1-6.drl' created for holes connecting TOP and BOTTOM
+     -------------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.  10.0000    3.0000/ 10.0000      PLATED        475
+            2.  12.0000    3.0000/ 12.0000      PLATED        260
+            3.  35.0000    3.0000/  3.0000      PLATED          2
+            4.  37.0000    3.0000/  3.0000      PLATED          4
+            5.  40.0000    3.0000/  3.0000      PLATED         39
+            6.  70.0000    3.0000/  3.0000      PLATED         10
+            7.  91.0000    3.0000/  3.0000      PLATED          2
+            8. 125.0000    3.0000/  3.0000      PLATED          6
+            9.  40.0000    3.0000/  3.0000  NON_PLATED          2
+           10. 134.0000    3.0000/  3.0000  NON_PLATED          2
+
+     ---- Total holes:                                        802
+
+     ---- Total head travel:              25.91 feet (7.90 meters)
+

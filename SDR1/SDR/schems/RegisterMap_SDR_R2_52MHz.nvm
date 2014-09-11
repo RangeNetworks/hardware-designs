@@ -1,0 +1,234 @@
+#Do not modify the contents of this file.
+#This file is for Field NVM programming.
+#BEGIN_PROFILE
+#Date = 4/14/2011 7:47:55 AM
+#Profile = 1
+#Software version = 2.7
+#File version = NVM 2
+#Chip = Si5338
+#Core VDD (V) = 0.00
+#Input Frequency (MHz) = 13.000000000
+#Input Type = CMOS_SSTL_HSTL
+#P1 = 1
+#Input Mux = RefClk
+#FDBK Input Frequency (MHz) = 25.000000000
+#FDBK Input Type = OFF
+#P2 = 1
+#FDBK Mux = RefClk
+#PFD Input Frequency (MHz) = 13.000000000
+#VCO Frequency (GHz) = 2.496000
+#N = 192  (192.0000)
+#Internal feedback enabled
+#Maximum Output Clock Frequency (MHz) = VCO / 8 = 312.000000
+#Output Clock 0
+# Output Frequency (MHz) = 13.000000000
+# Mux Selection = IDn
+# MultiSynth = 192  (192.0000)
+# R = 1
+#Output Clock 1
+# Output Frequency (MHz) = 13.000000000
+# Mux Selection = IDn
+# MultiSynth = 192  (192.0000)
+# R = 1
+#Output Clock 2
+# Output Frequency (MHz) = 52.000000000
+# Mux Selection = IDn
+# MultiSynth = 48  (48.0000)
+# R = 1
+#Output Clock 3
+# Output Frequency (MHz) = 52.000000000
+# Mux Selection = IDn
+# MultiSynth = 48  (48.0000)
+# R = 1
+#Driver 0
+# Enabled
+# Powered on
+# Output voltage = 3.30
+# Output type = CMOS_P_3V3
+#Driver 1
+# Enabled
+# Powered on
+# Output voltage = 3.30
+# Output type = CMOS_P_3V3
+#Driver 2
+# Enabled
+# Powered on
+# Output voltage = 3.30
+# Output type = CMOS_P_3V3
+#Driver 3
+# Enabled
+# Powered on
+# Output voltage = 3.30
+# Output type = CMOS_P_3V3
+#Frequency and phase adjust 0
+# Initial phase offset (ns) = 0.000
+# Phase step size (ns) = 0.000
+# Frequency adjust is off
+#Frequency and phase adjust 1
+# Initial phase offset (ns) = 0.000
+# Phase step size (ns) = 0.000
+# Frequency adjust is off
+#Frequency and phase adjust 2
+# Initial phase offset (ns) = 0.000
+# Phase step size (ns) = 0.000
+# Frequency adjust is off
+#Frequency and phase adjust 3
+# Initial phase offset (ns) = 0.000
+# Phase step size (ns) = 0.000
+# Frequency adjust is off
+#Spread spectrum 0
+# Spread spectrum is off
+#Spread spectrum 1
+# Spread spectrum is off
+#Spread spectrum 2
+# Spread spectrum is off
+#Spread spectrum 3
+# Spread spectrum is off
+#REGISTER_MAP
+  0,00h
+  1,00h
+  2,00h
+  3,00h
+  4,00h
+  5,00h
+  6,08h
+  7,00h
+  8,70h
+  9,0Fh
+ 10,00h
+ 11,00h
+ 12,00h
+ 13,00h
+ 14,F1h
+ 15,65h
+ 16,00h
+ 17,00h
+ 18,00h
+ 19,00h
+ 20,00h
+ 21,00h
+ 22,00h
+ 23,00h
+ 24,00h
+ 25,00h
+ 26,00h
+ 27,70h
+ 28,8Bh
+ 29,08h
+ 30,B0h
+ 31,C0h
+ 32,C0h
+ 33,C0h
+ 34,C0h
+ 35,00h
+ 36,01h
+ 37,01h
+ 38,01h
+ 39,01h
+ 40,F7h
+ 41,DEh
+ 42,37h
+ 43,00h
+ 44,00h
+ 45,00h
+ 46,00h
+ 47,14h
+ 48,27h
+ 49,85h
+ 50,C4h
+ 51,07h
+ 52,10h
+ 53,00h
+ 54,5Eh
+ 55,00h
+ 56,00h
+ 57,00h
+ 58,00h
+ 59,01h
+ 60,00h
+ 61,00h
+ 62,00h
+ 63,10h
+ 64,00h
+ 65,5Eh
+ 66,00h
+ 67,00h
+ 68,00h
+ 69,00h
+ 70,01h
+ 71,00h
+ 72,00h
+ 73,00h
+ 74,10h
+ 75,00h
+ 76,16h
+ 77,00h
+ 78,00h
+ 79,00h
+ 80,00h
+ 81,01h
+ 82,00h
+ 83,00h
+ 84,00h
+ 85,10h
+ 86,00h
+ 87,16h
+ 88,00h
+ 89,00h
+ 90,00h
+ 91,00h
+ 92,01h
+ 93,00h
+ 94,00h
+ 95,00h
+ 96,10h
+ 97,00h
+ 98,5Eh
+ 99,00h
+100,00h
+101,00h
+102,00h
+103,01h
+104,00h
+105,00h
+106,80h
+107,00h
+108,00h
+109,00h
+110,40h
+111,00h
+112,00h
+113,00h
+114,40h
+115,00h
+116,80h
+117,00h
+118,40h
+119,00h
+120,00h
+121,00h
+122,40h
+123,00h
+124,00h
+125,00h
+126,00h
+127,00h
+128,00h
+129,00h
+130,00h
+131,00h
+132,00h
+133,00h
+134,00h
+135,00h
+136,00h
+137,00h
+138,00h
+139,00h
+140,00h
+141,00h
+142,00h
+143,00h
+144,00h
+145,00h
+#END_PROFILE
